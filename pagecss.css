@@ -1,0 +1,16 @@
+* {
+ font-family: 'Taviraj';
+}
+
+ul {
+  display: inline-block;
+}
+
+ul li {
+  font-size: 14px;
+  list-style-type: square;
+}
+
+img {
+  width: 200px;
+}
